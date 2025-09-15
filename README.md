@@ -17,13 +17,13 @@ Source: A web-scraped dataset (originally collected by another contributor from 
 
 Nature of Data: Contains course-related information such as course title, category, sub-category, language, number of viewers, ratings, and instructor details.
 
-**Preprocessing Done:**
+**Preprocessing:**
 
-Cleaned missing/duplicate records
+- Cleaned missing/duplicate records
 
-Standardized category & language fields
+- Standardized category & language fields
 
-Created calculated measures using DAX 
+- Created calculated measures using DAX 
 
 *Since the dataset was web-scraped by a third party, it is used here purely for educational and project demonstration purposes*
 
