@@ -63,10 +63,6 @@ Created calculated measures using DAX
 
 9.In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
 
-# Dashboard preview
-
-<img width="1341" height="791" alt="image" src="https://github.com/user-attachments/assets/5087ea04-f569-4373-b89b-e14dfeeaf538" />
-
 
 # ✨ Key Insights
 
