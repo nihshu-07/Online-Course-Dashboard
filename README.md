@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
-  <b>📊 Interactive | 🎯 Insightful | ⚡ User-Friendly</b>
+  <b>📊 Interactive | 🎯 Insightful | 📸 Screenshot of data</b>
 </p>  
 
 
@@ -17,7 +17,7 @@ The dashboard provides insights into course popularity, student distribution, in
 
 By combining data cleaning, DAX calculations, and visualization best practices, this project demonstrates how Power BI can turn raw tabular data into insightful dashboards that support decision making.
 
-
+<br><br>
 
 #  📁Dataset
 
@@ -26,7 +26,7 @@ Source: A web-scraped dataset (originally collected by another contributor from 
 
 Nature of Data: Contains course-related information such as course title, category, sub-category, language, number of viewers, ratings, and instructor details.
 
-Preprocessing Done:
+**Preprocessing Done:**
 
 Cleaned missing/duplicate records
 
@@ -37,7 +37,7 @@ Created calculated measures using DAX
 *Since the dataset was web-scraped by a third party, it is used here purely for educational and project demonstration purposes*
 
 
-
+<br><br>
 
 # 🎯Problem Statements
 
@@ -67,12 +67,15 @@ Created calculated measures using DAX
 
 9.In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
 
+<br><br>
 
-## 🛠 Tech Stack  
+# 🛠 Tech Stack  
 
 - **Power BI** → Data visualization & dashboarding  
 - **CSV** → Data source   
 - **DAX (Data Analysis Expressions)** → Custom measures
+  
+<br><br>
 
 
 # ✨ Key Insights
