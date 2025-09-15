@@ -1,4 +1,15 @@
-#  Overview
+# 🎓 Online Course Dashboard – Power BI  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5087ea04-f569-4373-b89b-e14dfeeaf538" alt="Dashboard Banner" width="85%">
+</p>  
+
+<p align="center">
+  <b>📊 Interactive | 🎯 Insightful | ⚡ User-Friendly</b>
+</p>  
+
+
+# 🏆 Overview
 
 This project is an interactive Power BI dashboard created to analyze online learning platforms and courses.
 The dashboard provides insights into course popularity, student distribution, instructor ratings, and language preferences.
@@ -6,7 +17,7 @@ The dashboard provides insights into course popularity, student distribution, in
 
 By combining data cleaning, DAX calculations, and visualization best practices, this project demonstrates how Power BI can turn raw tabular data into insightful dashboards that support decision making.
 
-# Dataset
+#  📁Dataset
 
 
 Source: A web-scraped dataset (originally collected by another contributor from an online learning platform).
@@ -24,7 +35,7 @@ Created calculated measures using DAX
 *Since the dataset was web-scraped by a third party, it is used here purely for educational and project demonstration purposes*
 
 
-# Problem Statements
+# 🎯Problem Statements
 
 1.Examine the distribution of course types across categories to uncover trends and insights, enabling the client to strategically determine which course types to launch in specific categories for maximum impact and alignment with learner demand, also count the number of courses by category and sub-category.
 
@@ -54,9 +65,10 @@ Created calculated measures using DAX
 
 # Dashboard preview
 
-(photo)
+<img width="1341" height="791" alt="image" src="https://github.com/user-attachments/assets/5087ea04-f569-4373-b89b-e14dfeeaf538" />
 
-# Key Insights
+
+# ✨ Key Insights
 
 📌 Data Science and Computer Science dominate enrollments, followed by Business and Arts & Humanities.
 
