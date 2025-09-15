@@ -1,4 +1,4 @@
-# Overview
+#  Overview
 
 This project is an interactive Power BI dashboard created to analyze online learning platforms and courses.
 The dashboard provides insights into course popularity, student distribution, instructor ratings, and language preferences.
@@ -21,7 +21,7 @@ Standardized category & language fields
 
 Created calculated measures using DAX 
 
-“Since the dataset was web-scraped by a third party, it is used here purely for educational and project demonstration purposes.”
+*Since the dataset was web-scraped by a third party, it is used here purely for educational and project demonstration purposes*
 
 
 # Problem Statements
