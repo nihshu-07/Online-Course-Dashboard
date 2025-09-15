@@ -17,6 +17,8 @@ The dashboard provides insights into course popularity, student distribution, in
 
 By combining data cleaning, DAX calculations, and visualization best practices, this project demonstrates how Power BI can turn raw tabular data into insightful dashboards that support decision making.
 
+
+
 #  📁Dataset
 
 
@@ -33,6 +35,8 @@ Standardized category & language fields
 Created calculated measures using DAX 
 
 *Since the dataset was web-scraped by a third party, it is used here purely for educational and project demonstration purposes*
+
+
 
 
 # 🎯Problem Statements
@@ -62,6 +66,13 @@ Created calculated measures using DAX
 
 
 9.In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
+
+
+## 🛠 Tech Stack  
+
+- **Power BI** → Data visualization & dashboarding  
+- **CSV** → Data source   
+- **DAX (Data Analysis Expressions)** → Custom measures
 
 
 # ✨ Key Insights
