@@ -41,7 +41,7 @@ Created calculated measures using DAX
 
 # 🎯Problem Statements
 
-1.Examine the distribution of course types across categories to uncover trends and insights, enabling the client to strategically determine which course types to launch in specific categories for maximum impact and alignment with learner demand, also count the number of courses by category and sub-category.
+- Examine the distribution of course types across categories to uncover trends and insights, enabling the client to strategically determine which course types to launch in specific categories for maximum impact and alignment with learner demand, also count the number of courses by category and sub-category.
 
 
 2.Calculate the average number of views for each category, sub-category, and language to provide insights into viewer engagement patterns and inform strategic content development.
