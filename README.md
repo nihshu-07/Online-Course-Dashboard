@@ -72,6 +72,5 @@ Created calculated measures using DAX
 
  
  
-✨ If you found this project interesting, please ⭐ this repo!
 
 
