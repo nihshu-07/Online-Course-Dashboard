@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
-  <b>📊 Interactive | 🎯 Insightful | 📸 Screenshot of data</b>
+  <b>📊 Interactive | 🎯 Insightful | 📸 Screenshot of the  dashboard</b>
 </p>  
 
 
