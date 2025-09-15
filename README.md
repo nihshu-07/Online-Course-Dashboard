@@ -1,5 +1,3 @@
-# 🎓 Online Course Dashboard – Power BI   
-
 # 🏆 Overview
 
 This project is an interactive Power BI dashboard created to analyze online learning platforms and courses.
