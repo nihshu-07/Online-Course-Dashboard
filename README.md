@@ -53,7 +53,7 @@ Nature of Data: Contains course-related information such as course title, catego
 
 📌 English is the most prominent course language (≈30%), followed by Spanish, French, and Japanese.
 
-📌 Courses in the 60–80 hour range tend to balance high viewership with meaningful learning duration.
+📌 Courses in the 60 - 80 hour range tend to balance high viewership with meaningful learning duration.
 
 📌 Several instructors (e.g., Douglas C. Mo., Jason Roy, Raquel Prado) maintain ratings above 4.0, showing consistent quality.
 
